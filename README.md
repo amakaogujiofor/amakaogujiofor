@@ -3,11 +3,19 @@
 
 ![image](https://user-images.githubusercontent.com/80483692/138687973-66026678-89f3-4b75-ad4b-caf2842d7f82.png)
 
+  # 👨🏻‍💻  About Me
+
+
+
+
 👩‍💻 My Current Coding Skills :
 
 Languages : C, HTML, CSS, JavaScript
 
 🌱 I’m currently learning :
+
+<a href="http://eddiejaoude.io">Eddie Jaoude</a>
+💼 Things that I'm currently working on:
   
 
 <!--
