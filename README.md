@@ -6,12 +6,12 @@
 
 # 👩‍  About Me
 
-Thanks for checking my GitHub Profile. I'm Amaka, a Front-End Developer who loves learning, creating user-friendly and accessible web applications that people would love to use. I'm currently on a journey to become a sought-after Front-end Developer and this has me learning alot and building more projects for my portfolio.
+Thanks for checking out my GitHub Profile. I'm Amaka, a Front-End Developer who loves learning, creating user-friendly and accessible web applications that people would love to use. I'm currently on a journey to become a sought-after Front-end Developer and this has me learning alot and building more projects for my portfolio.
 
 - 💡 I love to explore new technologies and develop web applications
 - 🎓 I'm currently studying more on JavaScript from Scrimba and Academind.
 - 🌱 As I improve my JavaScript Skills, my next steps  => Learning MERN Stack
-- 👯 I’m looking to collaborate on ...Open source projects
+- 👯 I’m looking to collaborate on Open source projects and connect with more people
 - ⚡  Fun fact: I love Crime Movies and Series, in my free time, you'll catch me on Netflix. 
 - 😄 Pronouns: She / Her.
 
