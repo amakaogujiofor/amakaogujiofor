@@ -9,7 +9,7 @@ Thanks for checking my GitHub Profile. I'm Amaka, a Front-End Developer who love
 - 💡 I love to explore new technologies and develop web applications
 - 🎓 I'm currently studying more on JavaScript from Scrimba and Academind.
 - 🌱 As I improve my JavaScript Skills, my next steps  => Learning MERN Stack
-- ⚡  Fun fact: I love Crime Movies and Series, in my free time, you'll catch on Netflix. 
+- ⚡  Fun fact: I love Crime Movies and Series, in my free time, you'll catch me on Netflix. 
 - 😄 Pronouns: She / Her.
 
 <a href="https://amakaogujiofor.netlify.app/">Here's my portfolio, currently working on more projects which will be added soon.</a>
