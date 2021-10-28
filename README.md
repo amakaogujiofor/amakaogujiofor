@@ -1,9 +1,14 @@
-### Hi there �![image](https://user-images.githubusercontent.com/80483692/139245625-374b14ce-66ac-416a-89f5-b20d561ef950.png) I'm 
+### Hi there, I'm 
 
 
 ![image](https://user-images.githubusercontent.com/80483692/138687973-66026678-89f3-4b75-ad4b-caf2842d7f82.png)
 
+👩‍💻 My Current Coding Skills :
 
+Languages : C, HTML, CSS, JavaScript
+
+🌱 I’m currently learning :
+  
 
 <!--
 **amakaogujiofor/amakaogujiofor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
