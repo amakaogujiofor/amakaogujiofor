@@ -35,7 +35,8 @@ Thanks for checking my GitHub Profile. I'm Amaka, a Front-End Developer who love
 ![image](https://user-images.githubusercontent.com/80483692/139263523-05450c04-3a90-47aa-b8e0-9bb3fe3b44b7.png)
 
 
-
+# How to reach me
+</p><p><a href="https://www.linkedin.com/in/amakaogujiofor/" rel="nofollow"><img src="https://user-images.githubusercontent.com/80483692/139264657-fcb3e006-aa55-4588-8b1f-a016b8a6833e.png" style="max-width: 100%;"></a> <a href="https://www.twitter.com/in/amakaogujiofor/" rel="nofollow"><img src="https://user-images.githubusercontent.com/80483692/139265990-0322e298-f1c2-4c72-9a28-0951da5077f1.png" style="max-width: 100%;"></a>
 
 # My Stats
 <img 
