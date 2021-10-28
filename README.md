@@ -1,4 +1,6 @@
-### Hi there, I'm 
+### ✨✨ Hi there, I'm ✨✨
+
+
 
 ![image](https://user-images.githubusercontent.com/80483692/138687973-66026678-89f3-4b75-ad4b-caf2842d7f82.png)
 
@@ -9,6 +11,7 @@ Thanks for checking my GitHub Profile. I'm Amaka, a Front-End Developer who love
 - 💡 I love to explore new technologies and develop web applications
 - 🎓 I'm currently studying more on JavaScript from Scrimba and Academind.
 - 🌱 As I improve my JavaScript Skills, my next steps  => Learning MERN Stack
+- 👯 I’m looking to collaborate on ...Open source projects
 - ⚡  Fun fact: I love Crime Movies and Series, in my free time, you'll catch me on Netflix. 
 - 😄 Pronouns: She / Her.
 
