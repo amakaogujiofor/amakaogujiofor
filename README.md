@@ -41,9 +41,7 @@ Thanks for checking my GitHub Profile. I'm Amaka, a Front-End Developer who love
 # My Stats
 <img 
    src="https://github-readme-stats.vercel.app/api?username=amakaogujiofor&show_icons=true&theme=synthwave" 
-/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amakaogujiofor&layout=compact)](https://github.com/amakaogujiofor/github-readme-stats)
+/>       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amakaogujiofor&layout=compact)](https://github.com/amakaogujiofor/github-readme-stats)
 
     
 
