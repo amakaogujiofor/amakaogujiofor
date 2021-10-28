@@ -14,7 +14,7 @@ Thanks for checking my GitHub Profile. I'm Amaka, a Front-End Developer who love
 
 <a href="https://amakaogujiofor.netlify.app/">Here's my portfolio, currently working on more projects which will be added soon.</a>
 
-# 👩‍💻 My Current Coding Skills  and Tools I use:
+# 👩‍💻 My Current Stack and Tools I use:
 ![image](https://user-images.githubusercontent.com/80483692/139262510-af436aca-308b-488f-b1c3-9bb25fcbc7bf.png)
 ![image](https://user-images.githubusercontent.com/80483692/139263263-0f0fb265-d9c6-43b7-9e6b-64da98f91f9d.png)
 ![image](https://user-images.githubusercontent.com/80483692/139262051-2e3a5a06-b5da-4f36-9fbb-81df37cb7625.png)
