@@ -30,13 +30,16 @@ Thanks for checking out my GitHub Profile. I'm Amaka, a Front-End Developer who 
 
 
 
+# 💡Currently Learning:
+![image](https://user-images.githubusercontent.com/80483692/139262778-614e42a4-d27b-4010-a864-5de2ffe13290.png)
+![image](https://user-images.githubusercontent.com/80483692/139263523-05450c04-3a90-47aa-b8e0-9bb3fe3b44b7.png)
+
 # 🌱Learning Next:
 ![image](https://user-images.githubusercontent.com/80483692/139262778-614e42a4-d27b-4010-a864-5de2ffe13290.png)
 ![image](https://user-images.githubusercontent.com/80483692/139262814-20eb2a6c-5de0-4ded-aa11-93e01dedd4b8.png)
 ![image](https://user-images.githubusercontent.com/80483692/139262830-bb2bf665-e3e5-4d42-ac6f-c2424cb7181e.png)
 ![image](https://user-images.githubusercontent.com/80483692/139262854-ad30d2a3-74f5-4bc8-95b6-1bd845a2a7f5.png)
 ![image](https://user-images.githubusercontent.com/80483692/139263523-05450c04-3a90-47aa-b8e0-9bb3fe3b44b7.png)
-
 
 
 # How to reach me
